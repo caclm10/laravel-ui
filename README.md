@@ -1,4 +1,4 @@
-# Component Collection Project
+# Laravel UI
 
 This project is a collection of reusable components built using Laravel, Tailwind CSS, and Alpine.js.
 
