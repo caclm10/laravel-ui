@@ -4,7 +4,8 @@ import colors from "tailwindcss/colors"
 export default {
   content: [
     "./resources/views/**/*.blade.php",
-    "./resources/js/**/*.js"
+    "./resources/js/**/*.js",
+    "./app/Views/Variants/**/*.php"
   ],
   theme: {
     extend: {
