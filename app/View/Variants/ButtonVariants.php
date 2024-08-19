@@ -1,6 +1,6 @@
 <?php
 
-namespace App\Views\Variants;
+namespace App\View\Variants;
 
 class ButtonVariants
 {

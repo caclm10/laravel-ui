@@ -1,4 +1,4 @@
-@use('App\Views\Variants\ButtonVariants')
+@use('App\View\Variants\ButtonVariants')
 
 @props([
     'variant' => 'primary',
