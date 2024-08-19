@@ -55,10 +55,7 @@
                                     <path d="M6 9l6 6l6 -6" />
                                 </svg>
                             </x-button>
-
                         </x-dropdown.trigger>
-
-
 
                         <x-dropdown.menu>
                             <x-dropdown.item.a href="#">
