@@ -6,6 +6,7 @@
         "build": "vite build"
     },
     "devDependencies": {
+        "@floating-ui/dom": "^1.6.10",
         "alpinejs": "^3.14.1",
         "autoprefixer": "^10.4.20",
         "axios": "^1.6.4",
